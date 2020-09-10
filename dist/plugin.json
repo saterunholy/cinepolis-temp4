@@ -1,9 +1,9 @@
 {
   "type": "panel",
-  "name": "Softtek PieEchart",
-  "id": "softtek-ep",
+  "name": "Cinepolis Pie Chart Dark-Blue",
+  "id": "cinepolis-piedarkblue",
   "info": {
-    "description": "Softtek Pie panel for grafana",
+    "description": "Cinepolis Pie Chart template 4!",
     "author": {
       "name": "Softtek",
       "url": "https://github.com/Billiballa"
@@ -12,8 +12,8 @@
       "echarts"
     ],
     "logos": {
-      "small": "img/softtek logo.png",
-      "large": "img/softtek logo.png"
+      "small": "img/cinepolis4.png",
+      "large": "img/cinepolis4.png"
     },
     "links": [
       {
