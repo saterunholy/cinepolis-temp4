@@ -1,6 +1,6 @@
 # Cinepolis Pie Chart Dark-Blue
 
-Echarts panel for grafana 6+ & 7+, coding with react.
+Softtek panel for grafana 6+ & 7+, coding with react.
 
 Code editor is attached in the edit panel to configure the option of echarts.
 
