@@ -11,8 +11,6 @@ Code editor is attached in the edit panel to configure the option of echarts.
 1. Clone this repo to "/grafana_path/data/plugins".
 2. Restart grafana.
 
-(Map support: Add YourMap.json to **src/map** and run ``yarn build``, panel will auto register it(``echarts.registerMap('YourMap', {...}))``).
-
 ## Custom
 
 This plugin build with [@grafana/toolkit](https://www.npmjs.com/package/@grafana/toolkit).
