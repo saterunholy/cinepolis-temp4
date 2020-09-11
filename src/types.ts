@@ -66,7 +66,9 @@ return {
             radius: [0, '30%'],
 
             label: {
-                position: 'inner'
+                position: 'inner',
+                color: '#5D5E63',
+                fontWeight: 'bold'
             },
             labelLine: {
                 show: false
@@ -77,9 +79,8 @@ return {
                 {value: 1548, name: 'Data 3'}
             ],
         itemStyle: {
-                color: '#15205a',
+                color: '#ffffff',
                 borderColor: '#000000',
-                borderWidth: '0.3',
                 shadowBlur: 200,
                 shadowColor: 'rgba(0, 0, 0, 0.5)'
             },
@@ -121,11 +122,7 @@ return {
                     },
                     b: {
                         fontSize: 16,
-                        color: '#5D5E63',
                         lineHeight: 22
-                    },
-                    c: {
-                      color: "#5D5E63"
                     },
                     per: {
                         color: '#eee',
@@ -146,9 +143,9 @@ return {
                 {value: 102, name: 'Data 8'}
             ],
             itemStyle: {
-                color: '#ffffff',
-                borderColor: '#243EC5',
-                borderWidth: '0.3',
+                color: '#15205a',
+                borderColor: '#ffffff',
+                borderWidth: 0.3,
                 shadowBlur: 200,
                 shadowColor: 'rgba(100, 100, 0, 10)'
             },
