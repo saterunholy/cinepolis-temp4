@@ -90,7 +90,8 @@ return {
             type: 'pie',
             radius: ['40%', '55%'],
             label: {
-                formatter: "{a|{a}}{abg|} \n\{hr|}\n\ {b|{b}：}{c|{c}}  {per|{d}%}  ",
+                whitespace: 'nowrap',
+                formatter: "{a|{a}}{abg|} \n{hr|}\n {b|{b}：}{c|{c}}  {per|{d}%}  ",
                 backgroundColor: '#eee',
                 borderColor: '#aaa',
                 borderWidth: 1,
